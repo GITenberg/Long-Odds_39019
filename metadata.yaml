@@ -1,0 +1,32 @@
+_repo: Long-Odds_39019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39019-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: Long Odds is another entry in the list of classic Westerns produced by
+  an unlikely master of the genre, British-born Harold Bindloss. If you like your
+  action-adventure served up with plenty of romance, gripping plot twists, honorable
+  but taciturn heroes, and heartrending descriptions of the vast prairie, you've come
+  to the right place.
+gutenberg_issued: '2012-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Angola -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: Long Odds
+url: http://www.gutenberg.org/ebooks/39019
